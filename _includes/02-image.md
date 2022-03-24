@@ -1,1 +1,1 @@
-![Image of Nature](https://images.app.goo.gl/NwBxZGUacoJsgHdM8)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
